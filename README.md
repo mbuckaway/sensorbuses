@@ -9,4 +9,3 @@ This utility installs itself as a systemd service, and reads the /etc/sensorbuse
 While it should work on any linux system, it has only been tested on a Raspberry PI and assumes python3 is installed.
 
 CODE IS UNDER DEVELOPMENT
-
