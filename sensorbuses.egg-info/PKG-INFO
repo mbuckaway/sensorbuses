@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: sensorbuses
+Version: 1.0
+Summary: Installs modules and activates drivers/devices in i2c, spi, and 1 wire sensor buses using kernel drivers
+Home-page: http://github.com/mbuckaway/sensorbuses
+Author: Mark Buckaway
+Author-email: mark@buckaway.ca
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

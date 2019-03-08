@@ -1,0 +1,7 @@
+setup.py
+sensorbuses/__init__.py
+sensorbuses.egg-info/PKG-INFO
+sensorbuses.egg-info/SOURCES.txt
+sensorbuses.egg-info/dependency_links.txt
+sensorbuses.egg-info/entry_points.txt
+sensorbuses.egg-info/top_level.txt
